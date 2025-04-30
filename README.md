@@ -6,13 +6,13 @@ This project analyzes Olympic athlete event data to help Kellogg’s identify hi
 
 # 🎯 Objectives
 
-Identify medal trends by sport, country, gender, and season.
+- Identify medal trends by sport, country, gender, and season.
 
-Highlight top athletes and events for brand sponsorship.
+- Highlight top athletes and events for brand sponsorship.
 
-Provide interactive visual insights using Looker Studio.
+- Provide interactive visual insights using Looker Studio.
 
-Create a professional, shareable dashboard for stakeholders.
+- Create a professional, shareable dashboard for stakeholders.
 
 # 🔗 Dashboard Link
 
