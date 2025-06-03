@@ -28,5 +28,5 @@ Female athlete participation has steadily increased, with notable wins in recent
 
 Athletes aged 20–28 were the most frequent medal winners.
 
-## 📌 Conclusion
+## Conclusion
 This project demonstrates how athlete event data can guide sponsorship strategy by identifying high-visibility sports, standout athletes, and high-performing countries. The dashboard enables data-driven decision-making for brands like Kellogg’s to align their sponsorships with Olympic success stories.
