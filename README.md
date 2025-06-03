@@ -4,7 +4,7 @@
 
 This project analyzes Olympic athlete event data to help Kellogg’s identify high-impact sports and athletes for potential sponsorship in upcoming Olympic Games. It aims to uncover top-performing countries, medal trends, sport popularity, and gender participation patterns to drive strategic marketing decisions.
 
-## 🎯 Objectives
+## Objectives
 
 - Identify medal trends by sport, country, gender, and season.
 
