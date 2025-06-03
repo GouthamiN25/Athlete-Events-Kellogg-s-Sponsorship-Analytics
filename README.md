@@ -19,7 +19,7 @@ This project analyzes Olympic athlete event data to help Kellogg’s identify hi
 https://lookerstudio.google.com/u/0/reporting/ac4991d2-73bc-4076-a881-4c75f43a26bf/page/page_12345
 
 
-## 📈 Insights
+## Insights
 Most medals were won in Summer Olympics, predominantly in Athletics and Swimming.
 
 Countries like the USA, Russia, and Germany consistently dominated medal counts.
