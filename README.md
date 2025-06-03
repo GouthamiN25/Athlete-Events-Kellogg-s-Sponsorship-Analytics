@@ -14,7 +14,7 @@ This project analyzes Olympic athlete event data to help Kellogg’s identify hi
 
 - Create a professional, shareable dashboard for stakeholders.
 
-## 🔗 Dashboard Link
+## Dashboard Link
 
 https://lookerstudio.google.com/u/0/reporting/ac4991d2-73bc-4076-a881-4c75f43a26bf/page/page_12345
 
